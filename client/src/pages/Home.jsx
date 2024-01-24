@@ -54,12 +54,11 @@ export default function Home() {
           <br />
           place with ease
         </h1>
-         <div className='text-gray-500 text-xs sm:text-sm'>
+        <div className='text-gray-400 text-xs sm:text-sm'>
         Discover Luxero Estate, where the path to your perfect home begins.
           <br />
-        Explore our range of exceptional properties and let us guide you to
-         the residence you've always envisioned. 
-         
+          Explore our range of exceptional properties and let us guide you to
+         the residence you've always envisioned.
         </div>
         <Link
           to={'/search'}
